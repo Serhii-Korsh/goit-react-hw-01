@@ -1,0 +1,40 @@
+.status {
+  font-weight: bold;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 1;
+  letter-spacing: 0.05em;
+}
+.online {
+  color: green;
+}
+.offline {
+  color: red;
+}
+.div {
+  width: 212px;
+  height: 361px;
+  margin: 0 auto;
+  border: solid #474a4d 3px;
+  border-radius: 10px;
+  padding-top: 10px;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+
+.img {
+  height: 164px;
+  width: auto;
+}
+
+.name {
+  font-weight: 500;
+  font-size: 38px;
+  line-height: 1;
+  letter-spacing: 0.05em;
+  color: black;
+}
